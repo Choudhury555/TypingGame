@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TypingGame/static/css/main.23995c75.css",
+    "main.js": "/TypingGame/static/js/main.e11381cd.js",
+    "static/js/787.ab40f7c1.chunk.js": "/TypingGame/static/js/787.ab40f7c1.chunk.js",
+    "index.html": "/TypingGame/index.html",
+    "main.23995c75.css.map": "/TypingGame/static/css/main.23995c75.css.map",
+    "main.e11381cd.js.map": "/TypingGame/static/js/main.e11381cd.js.map",
+    "787.ab40f7c1.chunk.js.map": "/TypingGame/static/js/787.ab40f7c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23995c75.css",
+    "static/js/main.e11381cd.js"
+  ]
+}
